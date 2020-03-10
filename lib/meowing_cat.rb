@@ -6,8 +6,8 @@ class Cat
     @name = name
   end
 
-  def meow
-    puts ""
-  end
+  # def meow
+  #   puts ""
+  # end
 end
 
